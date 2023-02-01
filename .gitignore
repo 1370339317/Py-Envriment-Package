@@ -4,3 +4,5 @@
 
 /python27/Python27Environment.zip
 /.vs
+/Python-2.7.18/PCbuild/.vs/pcbuild/v16
+/Python-2.7.18/PCbuild/obj/win32_Debug
