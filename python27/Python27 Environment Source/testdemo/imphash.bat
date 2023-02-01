@@ -1,0 +1,1 @@
+topedrpy27.exe pyprogma/imphash.py "C:\Windows\explorer.exe"
